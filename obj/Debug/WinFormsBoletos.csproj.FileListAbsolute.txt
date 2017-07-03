@@ -1,0 +1,11 @@
+C:\IVIA\RepositorioPGERN\formboletos\back\windows-forms\Boletos\WinFormsBoletos\WinFormsBoletos\bin\Debug\WinFormsBoletos.exe.config
+C:\IVIA\RepositorioPGERN\formboletos\back\windows-forms\Boletos\WinFormsBoletos\WinFormsBoletos\bin\Debug\WinFormsBoletos.exe
+C:\IVIA\RepositorioPGERN\formboletos\back\windows-forms\Boletos\WinFormsBoletos\WinFormsBoletos\bin\Debug\WinFormsBoletos.pdb
+C:\IVIA\RepositorioPGERN\formboletos\back\windows-forms\Boletos\WinFormsBoletos\WinFormsBoletos\obj\Debug\WinFormsBoletos.csprojResolveAssemblyReference.cache
+C:\IVIA\RepositorioPGERN\formboletos\back\windows-forms\Boletos\WinFormsBoletos\WinFormsBoletos\obj\Debug\WinFormsBoletos.Form1.resources
+C:\IVIA\RepositorioPGERN\formboletos\back\windows-forms\Boletos\WinFormsBoletos\WinFormsBoletos\obj\Debug\WinFormsBoletos.Properties.Resources.resources
+C:\IVIA\RepositorioPGERN\formboletos\back\windows-forms\Boletos\WinFormsBoletos\WinFormsBoletos\obj\Debug\WinFormsBoletos.csproj.GenerateResource.Cache
+C:\IVIA\RepositorioPGERN\formboletos\back\windows-forms\Boletos\WinFormsBoletos\WinFormsBoletos\obj\Debug\WinFormsBoletos.exe
+C:\IVIA\RepositorioPGERN\formboletos\back\windows-forms\Boletos\WinFormsBoletos\WinFormsBoletos\obj\Debug\WinFormsBoletos.pdb
+C:\IVIA\RepositorioPGERN\formboletos\back\windows-forms\Boletos\WinFormsBoletos\WinFormsBoletos\bin\Debug\Boleto.Net.dll
+C:\IVIA\RepositorioPGERN\formboletos\back\windows-forms\Boletos\WinFormsBoletos\WinFormsBoletos\bin\Debug\NReco.PdfGenerator.dll

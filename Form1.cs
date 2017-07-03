@@ -45,7 +45,7 @@ namespace WinFormsBoletos
             decimal valorBoleto = Convert.ToDecimal("1,59"); // txtValor.Text; 
             string numeroDocumento = "501953"; //"00000174"; //"10028528";  //"498261";
             int cedente_convenio = 2815189; //1220950;
-            //string boleto_nossoNumero = "0" + cedente_convenio; //000[1002852] [2815189] [0001002852] nosso numero valido
+            string boleto_nossoNumero = "8757"; //"0" + cedente_convenio; //000[1002852] [2815189] [0001002852] nosso numero valido
 
             #region informações pessoais do sacado / pagador         
             string sacado_cpfCnpj = "034.648.884-28";
@@ -67,7 +67,7 @@ namespace WinFormsBoletos
             #endregion
 
             #region objBoleto - criando um boleto que tem um sacado e especie de documento
-            Boleto objBoleto = new Boleto(vencimento, valorBoleto, objCedente.Carteira, numeroDocumento, objCedente);
+            Boleto objBoleto = new Boleto(vencimento, valorBoleto, objCedente.Carteira, boleto_nossoNumero, objCedente);
             objBoleto.NumeroDocumento = numeroDocumento;
             objBoleto.LocalPagamento = "PAGÁVEL NA REDE BANCARIA ATÉ O VENCIMENTO";
             objBoleto.Sacado = new Sacado(sacado_cpfCnpj, sacado_nome, objEndereco);
